@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BiliBiliWebPortal (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BiliBiliWebPortal (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

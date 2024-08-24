@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>EmbeddedBiliWebHelper</AssemblyName>
+    <RootNamespace>EmbeddedBiliWebHelper</RootNamespace>
+    <LangVersion>10.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
